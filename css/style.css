@@ -3728,14 +3728,14 @@ div.moving-tittle {
 h1.tittle {
   font-size: 70px;
   color: #f2f6f9;
-  /*background-color: #f3ec78;
+  /* background-color: #f3ec78;
   background-image: linear-gradient(90deg, #ffa047, #c471ed, #52d7e0);
   background-size: 100%;
   background-clip: text;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;*/
+  -moz-text-fill-color: transparent; */
 }
 
 div.based-in {
